@@ -18,10 +18,6 @@
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING SVG                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Agentic+AI+%7C+ML+Pipelines+%7C+Scalable+Architectures;Financial+AI+%7C+Predictive+Modeling+%7C+Analytics;Turning+Data+into+Intelligence+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -64,25 +60,50 @@ class SamarthKhandelwal:
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   SPECIALIZATIONS                             -->
+<!--        DOMAINS & SPECIALIZATIONS — FULL DARK BADGE GRID       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### ⚡ Domains & Specializations
 
-</div>
+<br/>
 
-<div align="center">
+<!-- ROW HEADERS -->
+![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square)
 
-| 🤖 AI & Machine Learning | 📊 Data & Analytics | 🏗️ Engineering |
-|:---:|:---:|:---:|
-| Agentic AI Systems | Financial Analytics | Scalable Architectures |
-| Predictive Modeling | AQI Analysis & EDA | System Design |
-| Classification & Regression | Predictive Analytics | AI Product Development |
-| Computer Vision | Data Visualization | Mobile & API Integration |
-| Recommendation Systems | Statistical Analysis | DSA & Problem Solving |
-| Intelligent Automation | Business Data Analytics | Firebase & Cloud Tools |
+<!-- COLUMN HEADERS ROW -->
+![AI & Machine Learning](https://img.shields.io/badge/🤖%20AI%20%26%20Machine%20Learning-00d4ff?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=00d4ff)&nbsp;&nbsp;&nbsp;&nbsp;![Data & Analytics](https://img.shields.io/badge/📊%20Data%20%26%20Analytics-00d4ff?style=for-the-badge&labelColor=0d1117&color=0d1117)&nbsp;&nbsp;&nbsp;&nbsp;![Engineering](https://img.shields.io/badge/🏗️%20Engineering-00d4ff?style=for-the-badge&labelColor=0d1117&color=0d1117)
+
+<br/>
+
+<!-- AI/ML COLUMN -->
+![Agentic AI Systems](https://img.shields.io/badge/Agentic%20AI%20Systems-1a1a2e?style=flat-square&logoColor=00d4ff&logo=openai)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-1a1a2e?style=flat-square&logoColor=00d4ff&logo=tensorflow)
+![Classification & Regression](https://img.shields.io/badge/Classification%20%26%20Regression-1a1a2e?style=flat-square&logoColor=00d4ff&logo=scikit-learn)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1a1a2e?style=flat-square&logoColor=00d4ff&logo=opencv)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-1a1a2e?style=flat-square&logoColor=00d4ff&logo=sparkpost)
+![Intelligent Automation](https://img.shields.io/badge/Intelligent%20Automation-1a1a2e?style=flat-square&logoColor=00d4ff&logo=robotframework)
+
+&nbsp;
+
+<!-- DATA COLUMN -->
+![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-162032?style=flat-square&logoColor=7dd3fc&logo=monero)
+![AQI Analysis & EDA](https://img.shields.io/badge/AQI%20Analysis%20%26%20EDA-162032?style=flat-square&logoColor=7dd3fc&logo=airplayaudio)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-162032?style=flat-square&logoColor=7dd3fc&logo=databricks)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-162032?style=flat-square&logoColor=7dd3fc&logo=plotly)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-162032?style=flat-square&logoColor=7dd3fc&logo=scipy)
+![Business Data Analytics](https://img.shields.io/badge/Business%20Data%20Analytics-162032?style=flat-square&logoColor=7dd3fc&logo=powerbi)
+
+&nbsp;
+
+<!-- ENGINEERING COLUMN -->
+![Scalable Architectures](https://img.shields.io/badge/Scalable%20Architectures-1a2e1a?style=flat-square&logoColor=4ade80&logo=amazonaws)
+![System Design](https://img.shields.io/badge/System%20Design-1a2e1a?style=flat-square&logoColor=4ade80&logo=azuredevops)
+![AI Product Development](https://img.shields.io/badge/AI%20Product%20Development-1a2e1a?style=flat-square&logoColor=4ade80&logo=producthunt)
+![Mobile & API Integration](https://img.shields.io/badge/Mobile%20%26%20API%20Integration-1a2e1a?style=flat-square&logoColor=4ade80&logo=fastapi)
+![DSA & Problem Solving](https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-1a2e1a?style=flat-square&logoColor=4ade80&logo=leetcode)
+![Firebase & Cloud Tools](https://img.shields.io/badge/Firebase%20%26%20Cloud%20Tools-1a2e1a?style=flat-square&logoColor=4ade80&logo=firebase)
 
 </div>
 
@@ -173,7 +194,7 @@ class SamarthKhandelwal:
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                           -->
+<!--       CONTRIBUTION GRAPH — PREMIUM DARK + HIGH CONTRAST       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -182,9 +203,19 @@ class SamarthKhandelwal:
 
 <br/>
 
+<!-- Primary graph — high contrast neon cyan with glow area -->
 <a href="https://github.com/Sam2126">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam2126&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a3a4a&hide_border=true&radius=8&custom_title=Samarth's%20Contribution%20Graph" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam2126&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00334d&hide_border=true&radius=12&custom_title=⚡%20Samarth's%20Contribution%20Timeline&title_color=00d4ff&grid_color=1a2a3a" width="98%" alt="Contribution Graph"/>
 </a>
+
+<br/><br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam2126/Sam2126/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam2126/Sam2126/output/github-snake.svg" />
+  <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Sam2126/Sam2126/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -201,7 +232,7 @@ class SamarthKhandelwal:
 <br/>
 
 <a href="https://leetcode.com/u/SamarthKhandelwal25/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/SamarthKhandelwal25?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&radius=16&width=500&shots=0&site=us&border_color=00d4ff" alt="LeetCode Stats" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/SamarthKhandelwal25?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&radius=16&width=500&border_color=00d4ff" alt="LeetCode Stats" width="500"/>
 </a>
 
 <br/><br/>
@@ -213,19 +244,12 @@ class SamarthKhandelwal:
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--            FLAGSHIP PROJECTS — PREMIUM BADGE DESIGN           -->
+<!--            FLAGSHIP PROJECTS — PREMIUM CARD GRID              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🚀 Flagship Projects
-
-<br/>
-
-<!-- PROJECT 1 -->
-<a href="https://github.com/Sam2126">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────-0d1117?style=for-the-badge" width="100%"/>
-</a>
 
 </div>
 
